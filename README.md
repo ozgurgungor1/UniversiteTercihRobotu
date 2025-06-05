@@ -2,8 +2,6 @@
 
 ![Ekran görüntüsü 2025-06-05 173932](https://github.com/user-attachments/assets/31774235-7127-4133-b48f-217935bce1d0)
 
-
-
 # Türkiye Üniversiteleri ve Bölümleri JSON Verisi
 
 Bu projede, Türkiye'deki üniversitelerin bölümleri, puan türleri, taban sıralamaları ve şehir bilgilerini içeren kapsamlı bir JSON veri seti sunulmaktadır. Tercih robotları, eğitim danışmanlığı yazılımları, analiz araçları ve benzeri projeler için kullanılabilir.
